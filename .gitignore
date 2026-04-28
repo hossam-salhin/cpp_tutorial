@@ -1,7 +1,2 @@
-# Compiled binaries
-*.exe
-*.out
 *.o
-
-# VSCode
 .vscode/
