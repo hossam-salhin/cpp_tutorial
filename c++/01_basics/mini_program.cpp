@@ -60,7 +60,6 @@ float calculateDistance(float speed ,float time)  // function to calculate the d
 {
     return speed * time;
 }
-int calc
 struct MinMax getMaxMin(int a, int b, int c)   // function to find the maximum and minimum between three integers
 {
     struct MinMax result;
