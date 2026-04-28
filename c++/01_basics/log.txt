@@ -1,0 +1,40 @@
+operation: addition.
+inputs: 5 and 10
+result: 15
+-----------------------------
+operation: distance calculation.
+inputs: speed = 20.000000 m/s and time = 5.000000 s
+result: 100.000000 m
+-----------------------------
+operation: max/min calculation.
+inputs: 5, 15 and 4
+result: max = 15 and min = 4
+-----------------------------
+operation: addition.
+inputs: 5 and 5
+result: 10
+-----------------------------
+Time: Mon Apr 20 01:38:09 2026
+operation: Addition.
+inputs: 5 and 20
+result: 25
+-----------------------------
+Time: Mon Apr 20 01:38:32 2026
+operation: distance calculation.
+inputs: speed = 5.000000 m/s and time = 2.000000 s0
+result: 10.000000 m
+-----------------------------
+Time: Mon Apr 20 01:55:26 2026
+[ERROR] invalid input for addition operation: 0 and 0
+-----------------------------
+Time: Wed Apr 22 12:38:04 2026
+[INFO] operation: Addition.
+inputs: 5 and 20
+result: 25
+-----------------------------
+Time: Wed Apr 22 12:42:03 2026
+[ERROR] invalid input for max/min calculation: 0, 0 and 0
+-----------------------------
+Time: Wed Apr 22 13:18:55 2026
+[INFO] program exited.
+-----------------------------
